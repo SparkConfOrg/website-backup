@@ -1,4 +1,4 @@
-## AN ICONIC AND AWARD WINNING VENUE
+## AN ICONIC AND AWARD WINNING **VENUE**
 
 ### [UNC Charlotte Center City](http://centercity.uncc.edu/)
 
