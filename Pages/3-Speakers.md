@@ -1,4 +1,4 @@
-## OUR FANTASTIC SPEAKERS
+## OUR FANTASTIC **SPEAKERS**
 
 A small fiery particle of curiosity, passion, and motivation can ignite great things within us all. It only takes a spark for an idea to create new and innovative things. Our speakers - developers and entrepreneurs just like you - have a spark. A spark that will educate and inspire. Click below to learn more about the presenters and sessions offered at this year's conference.
 
@@ -64,4 +64,4 @@ Our inaugural keynote speaker is Charlotte’s own [Jim Van Fleet](/sessions/?ta
 [Steve Bucci](/sessions/?tag=Steve+Bucci "Click to view Steve Bucci's session(s)")<br />
 [Tony Shan](/sessions/?tag=Tony+Shan "Click to view Tony Shan's session(s)")
 
-[SESSIONS](/sessions)
+[SESSIONS](http://sparkconf.org/sessions)
