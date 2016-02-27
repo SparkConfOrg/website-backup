@@ -1,4 +1,4 @@
-## A JAM-PACKED ONE-DAY SCHEDULE
+## A JAM-PACKED **ONE-DAY SCHEDULE**
 
 08:00 AM - 03:00 PM : **Registration**<br />
 08:30 AM - 09:30 AM : **Session 1**<br />
