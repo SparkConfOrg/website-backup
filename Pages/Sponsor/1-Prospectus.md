@@ -1,3 +1,5 @@
+# Sponsorship Prospectus
+
 ## Thank you for your interest in sponsoring Spark Conference!
 
 The Spark Conference is the premier, must-attend event for technology enthusiasts in the South Atlantic region. This sponsorship prospectus offers your company a unique opportunity. You will have access to a highly engaged, passionate, driven audience. It is a truly special group of individuals. Formerly Carolina Code Camp, the Spark Conference is the best place for companies to connect with top-notch talent and decision makers.
