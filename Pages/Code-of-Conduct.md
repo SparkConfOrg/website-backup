@@ -1,3 +1,5 @@
+![Feature Image](https://raw.githubusercontent.com/SparkConfOrg/website-backup/2015/Pages/Images/Code-of-Conduct.JPG)
+
 # Code of Conduct
 
 Spark Conference is dedicated to a harassment-free conference experience for everyone.
