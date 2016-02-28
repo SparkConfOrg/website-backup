@@ -1,3 +1,5 @@
+![Feature Image](https://raw.githubusercontent.com/SparkConfOrg/website-backup/2015/Pages/Images/5-Venue.jpg)
+
 ## AN ICONIC AND AWARD WINNING **VENUE**
 
 ### [UNC Charlotte Center City](http://centercity.uncc.edu/)
