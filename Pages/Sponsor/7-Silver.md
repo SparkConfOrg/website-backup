@@ -12,3 +12,5 @@ A Silver sponsors contributes less than $500 cash to the Spark Conference.
 ### RESTRICTIONS
 
 * No booth at the conference.
+
+![Silver](https://raw.githubusercontent.com/SparkConfOrg/website-backup/2015/Pages/Images/Sponsor/9%20-%20Silver.JPG)
