@@ -1,3 +1,5 @@
+![Feature Image](https://raw.githubusercontent.com/SparkConfOrg/website-backup/2015/Pages/Images/Sponsor/Sponsor.JPG)
+
 # Sponsorship Prospectus
 
 ## Thank you for your interest in sponsoring Spark Conference!
