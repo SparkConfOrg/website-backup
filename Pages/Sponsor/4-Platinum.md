@@ -14,3 +14,5 @@ A Platinum sponsors contributes $1,500 cash to the Spark Conference.
 * A guaranteed timeslot for a technical presentation during the regular sessions.
 * An email sent to registered conference attendees with information of your choice. The email will be sent by the conference organizers one week prior to the event.
 * Your company name and a brief paragraph included in all conference emails.
+
+![Platinum](https://raw.githubusercontent.com/SparkConfOrg/website-backup/2015/Pages/Images/Sponsor/2%20-%20Platinum.JPG)
