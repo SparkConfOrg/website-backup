@@ -19,3 +19,5 @@ A Rhodium sponsor contributes $3,000 cash to the Spark Conference.
 ### RESTRICTIONS
 
 * There may only be one.
+
+![Rhodium](https://raw.githubusercontent.com/SparkConfOrg/website-backup/2015/Pages/Images/Sponsor/1%20-%20Rhodium.JPG)
