@@ -20,7 +20,7 @@ Charlotte, NC 28202
 
 #### Event Image
 
-![Spark Conference Logo]()
+![Spark Conference Logo](https://raw.githubusercontent.com/SparkConfOrg/website-backup/2015/Conference-Logos/SparkC_Logo_02.png)
 
 #### Event Description
 
