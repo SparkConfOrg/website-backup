@@ -1,4 +1,6 @@
-![Spark Conference Logo]()
+![Feature Image](https://raw.githubusercontent.com/SparkConfOrg/website-backup/2015/Pages/Images/1-Feature.jpg)
+
+![Spark Conference Logo](https://raw.githubusercontent.com/SparkConfOrg/website-backup/2015/Pages/Images/1-Logo.png)
 
 ### SATURDAY, JUNE 6, 2015 IN CHARLOTTE, NC
 
