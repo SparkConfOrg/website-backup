@@ -34,16 +34,21 @@ Only lunch will be provided mid-day. Please go whenever you want. Hopefully not 
 
 The official Spark Conference mobile application is available for download on iOS and Android devices. This app has everything you need to navigate your way through the upcoming event! Install it to have full access to the detailed schedule and social functionality.
 
-[![Spark Conference App Icon]()](https://hub.attendify.com/shares/g8yqgk/)
+[![Spark Conference App Icon](https://raw.githubusercontent.com/SparkConfOrg/website-backup/2015/Pages/Images/Confirmation/App-Icon.png)](https://hub.attendify.com/shares/g8yqgk/)
 
 **Spark Conference**<br />
 *powered by attendify - KitApps, Inc*
 
-[![Download on the App Store]()](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=986980920&mt=8)
+[![Download on the App Store](https://raw.githubusercontent.com/SparkConfOrg/website-backup/2015/Pages/Images/Confirmation/appstore-iphone.png)](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=986980920&mt=8)
 
-[![Get it on Google play]()](https://play.google.com/store/apps/details?id=com.attendify.confg8yqgk)
+[![Get it on Google play](https://raw.githubusercontent.com/SparkConfOrg/website-backup/2015/Pages/Images/Confirmation/appstore-android.png)](https://play.google.com/store/apps/details?id=com.attendify.confg8yqgk)
 
 You can also view the app in your mobile device or tablet browser: [app.sparkconf.org](http://app.sparkconf.org/)
+
+![Screen 1](https://raw.githubusercontent.com/SparkConfOrg/website-backup/2015/Pages/Images/Confirmation/screen1_568x568.jpeg)
+![Screen 2](https://raw.githubusercontent.com/SparkConfOrg/website-backup/2015/Pages/Images/Confirmation/screen2_568x568.jpeg)
+![Screen 3](https://raw.githubusercontent.com/SparkConfOrg/website-backup/2015/Pages/Images/Confirmation/screen3_568x568.jpeg)
+![Screen 4](https://raw.githubusercontent.com/SparkConfOrg/website-backup/2015/Pages/Images/Confirmation/screen4_568x568.jpeg)
 
 ---
 
