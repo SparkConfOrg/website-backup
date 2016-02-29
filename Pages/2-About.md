@@ -1,22 +1,22 @@
-## Spark Conference will offer unparalleled training for developers.
+## Spark Conference offers exceptional training and networking.
 
-Join us for the 2015 Spark Conference on Saturday, June 6, at the UNC Charlotte Center City campus in uptown Charlotte, NC. Connect with up to 600 members of the regional developer community. Thoughts will be sparked. Questions will be answered. And fun will be had.
+Join us for the 2016 Spark Conference on Friday, June 3rd and Saturday, June 4th, at the UNC Charlotte Center City campus in uptown Charlotte, NC. Connect with up to 600 members of the South Atlantic region developer community. The Spark Conference offers exceptional training and networking for technology enthusiasts and encourages student interest in STEM. Thoughts will be sparked, questions will be answered, and fun will be had by all.
 
 ### IMPORTANT DATES
 
-**April 12:** Call for Participation Ends
+**March:** Call for Participation
 
-**April 24:** Session Voting Ends
+**April:** Session Voting
 
-**April 30:** Session Selection Ends
+**April:** Session Selection
 
-**May 1-31:** Attendee Registration
+**May 13:** Sponsor Print Inclusion Deadline
 
-**June 6:** Spark Conference
+**June 3 &ndash; 4:** Spark Conference
 
 ---
 
 Sign up with your name and email address to receive conference news and updates.
 
-We greatly respect your privacy. We hate spam too! We will never ever share your email address with others.<br />
+We respect your privacy. We hate spam too! We will never share your email address with others unless you explicitly give us permission.<br />
 [See past issues.](http://us10.campaign-archive2.com/home/?u=051cb2f32b102b62b336821d2&id=30b77efdea)
